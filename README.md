@@ -119,5 +119,5 @@ Processing: ⣷
 
 Download from TestPyPI:
 ```
-pip install -i https://test.pypi.org/simple/ deep-py
+pip install deep-py
 ```
