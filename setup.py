@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="deep-py",
-    version="0.0.3",
+    version="0.0.4",
     author="Ruslan Andrusyak",
     description="Python library for Data Science",
     long_description=long_description,

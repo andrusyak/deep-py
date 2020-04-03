@@ -117,7 +117,7 @@ Processing: ⣷
 
 # Installation
 
-Download from TestPyPI:
+Download from PyPI:
 ```
 pip install deep-py
 ```
